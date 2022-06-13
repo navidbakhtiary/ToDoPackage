@@ -1,0 +1,25 @@
+{
+    "name": "navidbakhtiary/todo",
+    "description": "laravel project-independent package that adds the ToDo ability",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Navid Bakhtiary",
+            "email": "NavidBakhtiary@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "NavidBakhtiary\\ToDo\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "NavidBakhtiary\\ToDo\\Providers\\ToDoServiceProvider"
+            ]
+        }
+    }
+}
