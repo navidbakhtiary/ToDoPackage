@@ -1,4 +1,4 @@
-# ToDoPackage
+# ToDo Package
 This package is a tool to add ToDo capability to various Laravel projects. 
 Depending on the needs of the project, you can use it to define tasks and labels and attach labels to task.
 Change of status and task information is possible.
