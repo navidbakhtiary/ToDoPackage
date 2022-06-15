@@ -4,8 +4,7 @@ Depending on the needs of the project, you can use it to define tasks and labels
 Change of status and task information is possible.
 When the status of a task is closed, an email notification is sent to the task owner. [MailTrap.io](https://mailtrap.io) is used to receive notification emails.
 Sanctum package has been used for authentications.
-The TDD approach has been used to test all APIs. Attempts have been made to consider all happy-path and unhappy-path.
-For<br /><br />
+The TDD approach has been used to test all APIs. Attempts have been made to consider all happy-path and unhappy-path.<br /><br />
 You can develop it or challenge it if you wish. I will be grateful if you give me your comments. You can send me your comments via [NavidBakhtiary@yahoo.com](mailto:NavidBakhtiary@yahoo.com) or [GitHub Issues](https://github.com/navidbakhtiary/ToDoPackage/issues).<br />
 Thank you for your attention.
 
